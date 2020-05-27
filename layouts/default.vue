@@ -11,7 +11,7 @@
           width="40"
         />
 
-        <v-text>Katz</v-text>
+        <v-text>Katz Facts</v-text>
       </div>
 
       <v-spacer></v-spacer>
@@ -30,16 +30,20 @@
         <nuxt />
       </v-container>
     </v-content>
-    
+    <v-footer class="pa-3">
+      <div>{{footer}}</div>
+    <v-spacer></v-spacer>
+    <div> &copy;2020</div>
+  </v-footer>
   </v-app>
 </template>
 
 <script>
 export default {
-  data () {
-    return {
-      
-    }
-  }
+    data: () => ({
+    logo: require("../assets/catto.gif"),
+    footer:"Made with 💜 by  ZTF",
+   
+  }),
 }
 </script>
