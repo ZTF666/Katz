@@ -1,7 +1,7 @@
 # Katz 😼
 
-> Is a simple SPA that give you , cat lovers , a random fact about our fluffy little friends .
-> This app uses the end point [CAT API](https://catfact.ninja/fact) to fetch the random facts.
+<p>Is a simple SPA that give you , cat lovers , a random fact about our fluffy little friends .</p>
+<p>This app uses the end point [CAT API](https://catfact.ninja/) to fetch the random facts.</p>
 
 
 ## Build Setup
