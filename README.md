@@ -1,6 +1,8 @@
-# qatz
+# Katz 😼
 
-> My awe-inspiring Nuxt.js project
+> Is a simple SPA that give you , cat lovers , a random fact about our fluffy little friends .
+> This app uses the end point [CAT API](https://catfact.ninja/fact) to fetch the random facts.
+
 
 ## Build Setup
 
