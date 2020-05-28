@@ -12,7 +12,7 @@
 ## How does it work :
 
 <div align="center">
-<img src="../assets/katz.gif" >
+<img src="assets/katz.gif" >
 </div>
 
 
