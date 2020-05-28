@@ -1,5 +1,9 @@
 # Katz 😼
 
+<div align="center">
+<img src="assets/catto.gif" >
+</div>
+
 <p>Is a simple SPA that give you , cat lovers , a random fact about our fluffy little friends .</p>
 <p>This app uses the end point</p>
 
@@ -59,6 +63,11 @@ you can contact me at ZTF666@protonmail.ch or via my portfolio
 ## License
 
 **Katz 😼** released under the [MIT](LICENSE) License.
+
+## Legal
+The pixel logo is made by my little sister !
+Any redistribution without consent is prohibited.
+Don't steal a 16y/o work lol.
 
 ```
 Made with 💘 by a 👨‍💻 on a 💻 | 2020 | ZTF666
