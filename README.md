@@ -66,6 +66,9 @@ you can contact me at ZTF666@protonmail.ch or via my portfolio
 
 ## Legal & Credits
 >The pixel logo is made by my little sister ! Any redistribution without consent is prohibited. Don't steal a 16y/o work lol.
+
+<br>
+
 >The cats pictures are from : [PEXELS](https://www.pexels.com/search/cats/)
 
 ```
