@@ -33,3 +33,33 @@ $ pnpm run start
 $ pnpm run generate
 ```
 
+## Support
+
+```
+Any help improving this spa , is welcomed ❤️
+```
+
+## Contact
+
+```
+you can contact me at ZTF666@protonmail.ch or via my portfolio
+```
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><a href="https://ztfportfolio.web.app/" target='_blank'><img src="https://avatars1.githubusercontent.com/u/32502988?v=4" width="100px;" alt=""/><br /><sub><b>ZTF666</b></sub></a></td>
+  </tr>
+</table>
+
+</div>
+
+
+## License
+
+**Katz 😼** released under the [MIT](LICENSE) License.
+
+```
+Made with 💘 by a 👨‍💻 on a 💻 | 2020 | ZTF666
+```
