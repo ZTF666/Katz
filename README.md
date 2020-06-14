@@ -11,14 +11,20 @@
 
 <p>to fetch the random facts.</p>
 
-<p>This is made using NuxtJS , Vuetify and Axios .</p>
+<p>This is made using :</p>
+
+<div align="center">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FV%2Fvuetify-logo-3BCF73C928-seeklogo.com.png&f=1&nofb=1"  width='60' height='60'>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvirtualcast.jp%2Fblog%2Fwp-content%2Fuploads%2F2019%2F04%2Fnuxtjs-logo.png&f=1&nofb=1"  width='60' height='60'>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvuejs.org%2Fimages%2Flogo.png&f=1&nofb=1"  width='60' height='60'>
+<h6><strong>A</strong>xios</h6>
+</div>
 
 ## How does it work :
 
 <div align="center">
 <img src="assets/katz.gif" >
 </div>
-
 
 ## Build Setup
 
@@ -59,17 +65,17 @@ you can contact me at ZTF666@protonmail.ch or via my portfolio
 
 </div>
 
-
 ## License
 
 **Katz 😼** released under the [MIT](LICENSE) License.
 
 ## Legal & Credits
->The pixel logo is made by my little sister ! Any redistribution without consent is prohibited. Don't steal a 16y/o work lol.
+
+> The pixel logo is made by my little sister ! Any redistribution without consent is prohibited. Don't steal a 16y/o work lol.
 
 <br>
 
->The cats pictures are from : [PEXELS](https://www.pexels.com/search/cats/)
+> The cats pictures are from : [PEXELS](https://www.pexels.com/search/cats/)
 
 ```
 Made with 💘 by a 👨‍💻 on a 💻 | 2020 | ZTF666
