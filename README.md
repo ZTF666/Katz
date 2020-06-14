@@ -2,7 +2,6 @@
 
 <div align="center">
 <img src="assets/catto.gif" >
-</div>
 
 <p>Is a simple SPA that give you , cat lovers , a random fact about our fluffy little friends .</p>
 <p>This app uses the end point</p>
@@ -12,6 +11,7 @@
 <p>to fetch the random facts.</p>
 
 <p>This is made using :</p>
+</div>
 
 <div align="center">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FV%2Fvuetify-logo-3BCF73C928-seeklogo.com.png&f=1&nofb=1"  width='60' height='60'>
